@@ -26,12 +26,14 @@ HTML · CSS · JavaScript · React · Git · Tailwind CSS · WordPress
 ### 📊 Most Used Languages
 
 <img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=tetianazaporozhets&layout=compact&theme=dracula&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=tetianazaporozhets&card_width=450&layout=compact&theme=dracula&hide_border=false"
   alt="Top Languages"
 />
 
 </div>
+
 ### 🔥 GitHub Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tetianazaporozhets&theme=monokai-metallian&timezone=Europe%2FAmsterdam)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tetianazaporozhets&theme=monokai-metallian&timezone=Europe%2FAmsterdam&card_width=450&card_height=170)](https://git.io/streak-stats)
+
 Thanks for visiting my profile! ✨
