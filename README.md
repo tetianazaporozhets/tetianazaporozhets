@@ -31,4 +31,7 @@ HTML · CSS · JavaScript · React · Git · Tailwind CSS · WordPress
 />
 
 </div>
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tetianazaporozhets&theme=monokai-metallian&timezone=Europe%2FAmsterdam)](https://git.io/streak-stats)
 Thanks for visiting my profile! ✨
