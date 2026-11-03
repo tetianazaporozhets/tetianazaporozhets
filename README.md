@@ -23,11 +23,14 @@ HTML · CSS · JavaScript · React · Git · Tailwind CSS · WordPress
 - Node.js
 - Testing
 
-<div align="center">
+<div align="start">
 
 ### 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetianazaporozhets&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=tetianazaporozhets&layout=compact&theme=dracula&hide_border=true"
+  alt="Top Languages"
+/>
 
 </div>
 Thanks for visiting my profile! ✨
