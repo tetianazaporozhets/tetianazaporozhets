@@ -2,8 +2,6 @@
 
 ### Frontend Developer Trainee
 
-I'm a Frontend Developer Trainee, learning how to build modern and user-friendly web applications.
-
 I believe that every new challenge is an opportunity to grow. I'm motivated by learning new skills, stepping outside my comfort zone, and seeing my progress along the way.
 
 ### 💡 Interests
